@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://dulanbarc.github.io/sitemap
+Sitemap: https://dulanbarc.github.io/app/sitemap
+Sitemap: https://dulanbarc.github.io/assets/sitemap
+Sitemap: https://dulanbarc.github.io/css/sitemap
+Sitemap: https://dulanbarc.github.io/includes/sitemap
+Sitemap: https://dulanbarc.github.io/item/sitemap
+Sitemap: https://dulanbarc.github.io/src/sitemap
